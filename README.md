@@ -26,7 +26,7 @@ We broke up into groups today and played a game where we were flying a space shi
 We learned about Temporary memory and long term memory. We learned about the expansion slots like the USB, Integrated sound, Integrated video, It was recommended that we get the Linux certifiocation through LPI. Take some Udemy classes to supplement our learning. 
 
 2025/03/11
-I missed the virtualization lecture due to a court hearing. We learned about Linux today and we worked on installing the VMware Workstation. 
+I missed the virtualization lecture due to a court hearing, so I am watching videos on it and I got notes from my Sha-mia. We learned about Linux today and we worked on installing the VMware Workstation. 
 
 2025/03/12
-Paul Farland from Trusted Sec, NCR, Equifax, etc. Ron Cofield (rcofield@cityofrefugeatl.org) is speaking to us, email Ron my 3 values and why. Value-purpose cards, my top 3: (Wealth/Money floater)  Legacy, Passion, Creativity/Innovation. Next three:Team, Money, Quaality.
+Paul Farland from Trusted Sec, NCR, Equifax, etc. Ron Cofield (rcofield@cityofrefugeatl.org) is speaking to us, email Ron my 3 values and why. Value-purpose cards, my top 3: (Wealth/Money floater)  Legacy, Passion, Creativity/Innovation. Next three:Team, Money, Quaality. Think about how to tell my life story the seminol events related to the career field, " I was doing this and then, this happened..."  "I woke up one day and decided this wasn't good enough for me or my family, so I decided to..." This is the turn I made to get where I am, and the value of it all.
