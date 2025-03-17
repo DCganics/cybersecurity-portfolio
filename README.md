@@ -30,3 +30,8 @@ I missed the virtualization lecture due to a court hearing, so I am watching vid
 
 2025/03/12
 Paul Farland from Trusted Sec, NCR, Equifax, etc. Ron Cofield (rcofield@cityofrefugeatl.org) is speaking to us, email Ron my 3 values and why. Value-purpose cards, my top 3: (Wealth/Money floater)  Legacy, Passion, Creativity/Innovation. Next three:Team, Money, Quaality. Think about how to tell my life story the seminol events related to the career field, " I was doing this and then, this happened..."  "I woke up one day and decided this wasn't good enough for me or my family, so I decided to..." This is the turn I made to get where I am, and the value of it all. 7 Habits of Highly Effective People. #1 BE PROACTIVE, more than merely taking initiative.We can subordinate our feelings to our values. We have the responsibility to make things happen.
+
+2025/03/13
+We talked about hypervisor 1 and 2. We went over essential Linux commands. We went over key terms like kernel, shell, and terminal.
+
+2025/03/14
